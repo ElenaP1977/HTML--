@@ -1,0 +1,38 @@
+.skills {
+    &__title {
+        margin-top: 91px;
+        margin-bottom: 69px;
+    }
+
+    &__subtitle {
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        font-weight: 500;
+        margin-bottom: 83.5px;
+    }
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 111px;
+
+    &__image {
+        display: block;
+        margin: 0 auto 23px;
+    }
+
+    &__title {
+        width: 90px;
+        height: 34px;
+        margin: 0 auto 41px;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 17px;
+        text-align: center;
+        color: #828282;
+    }
+
+
+}
